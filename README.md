@@ -1,5 +1,5 @@
 # Fizz-Buzz-Game
-'''
+''' C
 #include <stdio.h>
 #include <stdlib.h>
 
